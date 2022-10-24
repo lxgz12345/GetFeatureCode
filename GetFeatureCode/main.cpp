@@ -15,6 +15,5 @@ int main()
     std::cout << getFeatureCode::get_NIC_WIFI_MACAddress() << std::endl;
 
 
-
     system("pause");
 }
