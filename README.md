@@ -1,5 +1,5 @@
 # GetPCFeatureCode
-![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE.txt)
 
 # Chinese
 项目说明：获取你电脑的特征码
